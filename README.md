@@ -1,5 +1,5 @@
-# projectakhir-lvl-3
-# Project Akhir Level 3 - Bot Bantuan Semarak (Updated)
+
+# Project Akhir Level 3 - Bot Bantuan Semarak
 
 ## Overview
 Sistem bantuan pelanggan terintegrasi untuk toko online "Semua Bisa Kamu Beli" yang terdiri dari:
